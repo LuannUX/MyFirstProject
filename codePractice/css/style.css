@@ -1,0 +1,26 @@
+body {
+    background-color: #ffcccc;
+
+}
+
+@media only screen and (max-width:600px)
+body  {
+  background-color: blue;
+
+}
+
+h1  {
+    color: purple;
+    font-size: 40px;
+    font-style: oblique;
+    font-family: lora;
+    text-align: center;
+
+}
+
+p {
+    color: #3d3d5c;
+    text-align: center;
+    font-family: arial;
+
+}
